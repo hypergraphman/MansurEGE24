@@ -1,7 +1,6 @@
 from collections import Counter
 
 s = open('24-8.txt').read()
-
 mx_line = ''
 mx = 0
 for line in s.split('\n'):
